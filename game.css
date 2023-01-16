@@ -71,8 +71,12 @@ h1 {
     max-width: 33.333333% !important;
   }
 
+  .nav-pills>li>a>.badge {
+    margin-left: 2px;
+  }
+
   .main-box {
     transform: scale(0.9);
-    margin-left: -8%;
+    margin-left: -7%;
   }
 }
