@@ -70,6 +70,9 @@ h1 {
   .col-sm-4 {
     max-width: 33.333333% !important;
   }
+  .badge {
+    margin-left: -5px;
+  }
 
   .main-box {
     transform: scale(0.9);
