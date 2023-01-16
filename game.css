@@ -71,8 +71,9 @@ h1 {
     max-width: 33.333333% !important;
   }
 
-  .nav-pills>li>a>.badge {
-    margin-left: 2px;
+  .main-box ul {
+    font-size: 100%;
+    flex-wrap: nowrap;
   }
 
   .main-box {
