@@ -72,7 +72,7 @@ h1 {
   }
 
   .nav-pills>li>a>.badge {
-    margin-left: 0px !important;
+    margin-left: 5px !important;
   }
 
   .main-box {
